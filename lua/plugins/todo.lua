@@ -21,9 +21,9 @@ return {
     },
     -- 可选：覆盖颜色组（调整红色/蓝色的具体样式）
     colors = {
-      error = { "#FF0000", "DiagnosticError", "ErrorMsg", "#FF0000" }, -- NOTICE 的红色
-      hint = { "#4FC3F7", "DiagnosticHint", "Hint", "#4FC3F7" }, -- EXPLAIN 的蓝色
-      info = { "#80DEEA", "DiagnosticInfo", "Info", "#80DEEA" }, -- 浅蓝色
+      error = { "#FF0000", "DiagnosticError", "ErrorMsg", "#FCE4EC" }, -- NOTICE 的红色
+      hint = { "#4FC3F7", "DiagnosticHint", "Hint", "#E3F2FD" }, -- EXPLAIN 的蓝色
+      info = { "#80DEEA", "DiagnosticInfo", "Info", "#E8F5E9" }, -- 浅蓝色
     },
   },
 }
