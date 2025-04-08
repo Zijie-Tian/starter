@@ -1,0 +1,32 @@
+{
+  "TODO": {
+    "prefix": "TODO",
+    "body": "# TODO: ${1:Description}",
+    "description": "Custom TODO comment"
+  },
+  "NOTE": {
+    "prefix": "NOTE",
+    "body": "# NOTE: ${1:Description}",
+    "description": "Custom NOTE comment"
+  },
+  "NOTICE": {
+    "prefix": "NOTICE",
+    "body": "# NOTICE: ${1:Description}",
+    "description": "Custom NOTICE comment"
+  },
+  "WHY": {
+    "prefix": "WHY",
+    "body": "# WHY: ${1:Description}",
+    "description": "Custom WHY comment"
+  },
+  "EXPLAIN": {
+    "prefix": "EXPLAIN",
+    "body": "# EXPLAIN: ${1:Description}",
+    "description": "Custom EXPLAIN comment"
+  },
+  "HACK": {
+    "prefix": "HACK",
+    "body": "# HACK: ${1:Description}",
+    "description": "Custom HACK comment"
+  },
+}

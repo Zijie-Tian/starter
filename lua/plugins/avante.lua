@@ -14,6 +14,9 @@ return {
       },
     },
   },
+  hints = {
+    enable = true,
+  },
   inline = {
     enable = true,
     keymaps = {

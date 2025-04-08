@@ -1,0 +1,36 @@
+{
+  "TODO": {
+    "prefix": "TODO",
+    "body": "// TODO: ${1:Description}",
+    "description": "TODO comment (// style)"
+  },
+  "NOTE": {
+    "prefix": "NOTE",
+    "body": "// NOTE: ${1:Description}",
+    "description": "NOTE comment (// style)"
+  },
+  "NOTICE": {
+    "prefix": "NOTICE",
+    "body": [
+      "// ╭──────────────────────────────────────╮",
+      "// │ NOTICE: ${1:Warning}                  │",
+      "// ╰──────────────────────────────────────╯"
+    ],
+    "description": "NOTICE block (// style)"
+  },
+  "WHY": {
+    "prefix": "WHY",
+    "body": "// WHY: ${1:Reason}",
+    "description": "WHY comment (// style)"
+  },
+  "EXPLAIN": {
+    "prefix": "EXPLAIN",
+    "body": "// EXPLAIN: ${1:Details}",
+    "description": "EXPLAIN comment (// style)"
+  },
+  "HACK": {
+    "prefix": "HACK",
+    "body": "// HACK: ${1:Workaround}",
+    "description": "HACK comment (// style)"
+  }
+}
